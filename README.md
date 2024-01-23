@@ -3,6 +3,8 @@
 
 Um simples aplicativo JokenPo desenvolvido em Flutter.
 
+* O aplicativo opera no formato do jogo JokenPo, proporcionando uma experiência interativa de Pedra, Papel e Tesoura, no qual o sistema efetua escolhas autônomas em confronto com o usuário
+
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
