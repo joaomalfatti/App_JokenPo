@@ -1,4 +1,4 @@
-# jpp_jokenpo
+# App JokenPo
 
 A new Flutter project.
 
